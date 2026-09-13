@@ -12,9 +12,13 @@ Each region has its own directory with a channel list and a readme.
 
 ## Regions
 
-- [Pacific Northwest (pnw)](regions/pnw/pnw_radio.md) — greater Washington State
-  area. Includes a CHIRP import file `pnw_radio.csv` and the source
-  documentation `pnw_radio.md`.
+- [Greater Seattle](regions/greater-seattle/greater-seattle_radio.md) — greater
+  Seattle and Washington State area. Includes a CHIRP import file
+  `greater-seattle_radio.csv` and the source documentation
+  `greater-seattle_radio.md`.
+- [Tahoe](regions/tahoe/tahoe_radio.md) — South Lake Tahoe and the Lake Tahoe
+  Basin, California. Includes a CHIRP import file `tahoe_radio.csv` and the
+  source documentation `tahoe_radio.md`.
 
 ## File types
 

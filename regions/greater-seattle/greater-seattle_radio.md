@@ -1,10 +1,10 @@
-# pnw_radio
+# greater-seattle_radio
 
-A channel list for the greater Washington State area.
+A channel list for the greater Seattle area and greater Washington State.
 
 Operator: KI7LCR (Amateur Radio license).
 
-`pnw_radio.csv` is a CHIRP import file. It replaces the content of
+`greater-seattle_radio.csv` is a CHIRP import file. It replaces the content of
 `downloaded_radio.csv`. The original file has duplicates and placeholder tones.
 This file has clean channels, correct tones, and correct offsets.
 
@@ -13,7 +13,7 @@ This file has clean channels, correct tones, and correct offsets.
 1. Open CHIRP.
 2. Select your radio model.
 3. Select "File", then "Import from file".
-4. Select `pnw_radio.csv`.
+4. Select `greater-seattle_radio.csv`.
 5. Verify the memory channels, then write to your radio.
 
 Use the CSV with the same radio as `downloaded_radio.csv`. It is a dual-band
